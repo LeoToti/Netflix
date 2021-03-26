@@ -1,4 +1,45 @@
 
+.movie-image {
+  width: 100%;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.movie-image:hover {
+  transform: scale(1.1);
+}
+
+.carousel-control-next {
+  margin-right: -5%;
+}
+
+.carousel-control-prev {
+  margin-left: -5%;
+}
+
+.gallery {
+  margin-bottom: 50px;
+}
+
+.genre-details {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body {
+  background-color: #000000;
+  font-family: var(--bs-font-sans-serif);
+}
+h2,
+h5 {
+  color: aliceblue;
+}
+.genre-options {
+  margin-left: 4em;
+}
+
 
 nav #navy .navbar .navbar-expand-lg  {
     background-color: black !important;
@@ -37,7 +78,6 @@ button{
     border-radius: 0px !important;
 }
 
-body {
-    background-color: black;
-}
+
+
 
