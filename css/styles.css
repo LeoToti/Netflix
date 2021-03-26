@@ -1,0 +1,15 @@
+.movie-image {
+  width: 100%;
+}
+
+.carousel-control-next {
+  margin-right: -5%;
+}
+
+.carousel-control-prev {
+  margin-left: -5%;
+}
+
+.gallery {
+  margin-bottom: 50px;
+}
