@@ -21,10 +21,12 @@ body {
 #avatar {
     height: 36px;
 }
+
 #avatar-small {
     height: 24px;
     margin-right: 10px;
 }
+
 .dropdown-menu {
     margin-left: -100px;
     background-color: var(--home-bg-color);
@@ -53,11 +55,13 @@ body {
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
 .movie-cover {
     width: 99%;
     transition: 0.3s;
     opacity: 0.7;
 }
+
 .movie-cover:hover {
     opacity: 1;
     transition: 0.3s;
