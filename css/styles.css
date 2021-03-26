@@ -1,13 +1,5 @@
-:root {
-    --home-bg-color: #000;
-    --account-bg-color: #f3f3f3;
-    --text-color: #fff;
-    --primary-color: #e40a13;
-    --secondary-color: #929292;
-}
-
 body {
-    background: var(--home-bg-color);
+    background: black;
 }
 
 .btn {
@@ -29,7 +21,7 @@ body {
 
 .dropdown-menu {
     margin-left: -100px;
-    background-color: var(--home-bg-color);
+    background-color: black;
 }
 
 .icon {
@@ -80,12 +72,12 @@ body {
 .account-page {
     min-width: 100vw;
     min-height: 100vh;
-    background-color: var(--account-bg-color);
+    background-color: #f3f3f3;
 }
 
 .profile-page {
     padding: 5% 20%;
-    color: #fff;
+    color: white;
 }
 
 .profile-title {
@@ -103,7 +95,7 @@ body {
 
 input[type="text"] {
     padding: 10px;
-    background: var(--secondary-color);
+    background: #929292;
     width: 100%;
     color: white;
     font-size: 24px;
