@@ -1,7 +1,37 @@
- img {
-    width: 25px;
-}
+
 
 nav #navy .navbar .navbar-expand-lg  {
     background-color: black !important;
 }
+
+div {
+    display: block;
+}
+
+.profile-page {
+    padding: 5% 20%;
+    box-sizing: border-box;
+    background-color: black ;
+
+}
+
+.container div{
+    background-color: solid black ;
+}
+
+.input-profile {
+    position: relative;
+    box-sizing: border-box;
+
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+hr {
+    color: aliceblue;
+}
+
+
+
