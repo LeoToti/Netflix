@@ -33,5 +33,11 @@ hr {
     color: aliceblue;
 }
 
+button{
+    border-radius: 0px !important;
+}
 
+body {
+    background-color: black;
+}
 
