@@ -70,8 +70,8 @@
 .account-page {
     min-width: 100vw;
     min-height: 100vh;
-    background-color: #f3f3f3;
-=======
+    background-color: #f3f3f3;}
+
 
 .movie-image {
   width: 100%;
@@ -143,28 +143,9 @@ div {
     border-radius: 50%;
 }
 
-input[type="text"] {
-    padding: 10px;
-    background: #929292;
-    width: 100%;
-    color: white;
-    font-size: 24px;
-    font-weight: 500;
-}
 
-input[type="text"]:focus {
-    outline: none;
-}
+    
 
-input[type="checkbox"] {
-    transform: scale(1.5);
-    margin-bottom: 10px;
-}
-
-    box-sizing: border-box;
-    background-color: black ;
-
-}
 
 .container div{
     background-color: solid black ;
